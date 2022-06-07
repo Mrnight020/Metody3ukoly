@@ -1,0 +1,13 @@
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\3Ukoly\3Ukoly\bin\Debug\3Ukoly.exe.config
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\3Ukoly\3Ukoly\bin\Debug\3Ukoly.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\3Ukoly\3Ukoly\bin\Debug\3Ukoly.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\3Ukoly\3Ukoly\obj\Debug\3Ukoly.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\3Ukoly\3Ukoly\obj\Debug\_3Ukoly.Form1.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\3Ukoly\3Ukoly\obj\Debug\_3Ukoly.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\3Ukoly\3Ukoly\obj\Debug\_3Ukoly.Ukol1.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\3Ukoly\3Ukoly\obj\Debug\3Ukoly.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\3Ukoly\3Ukoly\obj\Debug\3Ukoly.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\3Ukoly\3Ukoly\obj\Debug\3Ukoly.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\3Ukoly\3Ukoly\obj\Debug\3Ukoly.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\3Ukoly\3Ukoly\obj\Debug\_3Ukoly.Ukol2.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\METODY____-------______------\3Ukoly\3Ukoly\obj\Debug\_3Ukoly.Ukol3.resources
